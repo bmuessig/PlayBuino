@@ -1,0 +1,1 @@
+You need ffmpeg for this to work. Just download a static win32 build and drop the ffmpeg.exe in the same folder as the converter's .exe
